@@ -12,7 +12,6 @@
 Determine the algorithm that was used to generate the numbers in this table, and
 
 - Write it down.
-
 - Execute it for N = 6, and write down your result.
 
 What is the sequence of numbers for N = 6? (Give your answer as integers separated by single spaces.)
@@ -24,4 +23,23 @@ What is the sequence of numbers for N = 6? (Give your answer as integers separat
 
 2. The diagrams shown below are the result of executing an algorithm with one parameter N, a non-negative integer, that colors boxes on a 10 by 10 grid. For values of N from 0 to 5, the algorithm produces the following patterns:![1736759087137](image/AlgorithmPractice/1736759087137.png)
 
-    -
+3. The numbers in the table below are the result of executing an algorithm that has one parameter N, a non-negative integer, and produces sequences of integers as outputs. For values of N from 0 to 5, the algorithm produces the following sequences of numbers as outputs.
+
+| N | output              |
+| - | ------------------- |
+| 0 |                     |
+| 1 | 0 1                 |
+| 2 | 0 2 2 3             |
+| 3 | 0 2 4 3 4 5         |
+| 4 | 0 2 4 6 4 5 6 7     |
+| 5 | 0 2 4 6 8 5 6 7 8 9 |
+
+Determine the algorithm that was used to generate the numbers in this table, and
+
+1. Write it down.
+2. Execute it for N = 6, and write down your result.
+3. Give your description of the algorithm to a friend who is not a programmer, and ask him or her to execute it for N = 6.
+
+What is the sequence of numbers for N = 6? (Give your answer as integers separated by single spaces.)
+
+0 2 4 6 8 10 6 7 8 9 10 11
